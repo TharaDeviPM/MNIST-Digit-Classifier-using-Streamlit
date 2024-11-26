@@ -1,6 +1,6 @@
 # MNIST-Digit-Classifier-using-Streamlit
 
-## This project demonstrates a web application built with Streamlit to classify handwritten digits from the MNIST dataset using a simple neural network model.
+### This project demonstrates a web application built with Streamlit to classify handwritten digits from the MNIST dataset using a simple neural network model.
 
 ## Key Features:
 1. Interactive Training: Users can train the model directly from the app with the MNIST dataset.
